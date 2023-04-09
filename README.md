@@ -4,7 +4,7 @@
 🎉Thank you for visiting my github!🎉
 <br>
 
-### 👉 [About Me!]() 👈
+### 👉 [About Me!](https://spark-tune-685.notion.site/ILSeong-Yoon-b6ef09f9ff3c42728091428d527282fa) 👈
 
 📚 I studied iOS in [Yagom iOS strater camp](https://www.yagom-academy.kr/). (2022-08 ~ 2023-02, 6m)
 <br>
